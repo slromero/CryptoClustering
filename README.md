@@ -8,4 +8,4 @@ The X and Y values are transformed, so you are only looking at the clustering re
 #### References:
 https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
 
-https://www.youtube.com/watch?v=FgakZw6K1QQ StatQuest: Principal Component Analysis (PCA), Step-by-Step-
+https://www.youtube.com/watch?v=FgakZw6K1QQ StatQuest: Principal Component Analysis (PCA), Step-by-Step
